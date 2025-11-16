@@ -14,7 +14,8 @@ sh get_bing_wallpaper.sh
 
 <details>
 <summary>get_bing_wallpaper_v2.sh</summary>
-Download settings can be modify by 'config.cfg'
+Download settings can be modify by config.cfg
+  
 ```bash
 sh get_bing_wallpaper_v2.sh
 ```
