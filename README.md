@@ -2,26 +2,19 @@
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/mrtoadie/GetBingWallpaper/total) ![GitHub License](https://img.shields.io/github/license/mrtoadie/GetBingWallpaper) ![GitHub Repo stars](https://img.shields.io/github/stars/mrtoadie/GetBingWallpaper)
 
 
-
-
 Little **shell** script to get Bing Wallpapers using the RestAPI of [TimothyYe](https://github.com/TimothyYe/bing-wallpaper/blob/master/README.md)
-## How to use?
+
+
+## Version v1.0
+### How to use?
 ```bash
 sh get_bing_wallpaper.sh
 ```
-<details>
-<summary>get_bing_wallpaper.sh</summary>
 
-```bash
-sh get_bing_wallpaper.sh
-```
-</details>
-
-<details>
-<summary>get_bing_wallpaper_v2.sh</summary>
-Download settings can be modify by config.cfg
-  
+## Version v2.0
+### Features
+Specify your download settings via config.cfg
+### How to use?  
 ```bash
 sh get_bing_wallpaper_v2.sh
 ```
-</details>
