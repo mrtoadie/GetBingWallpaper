@@ -1,5 +1,6 @@
 # GetBingWallpaper
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/mrtoadie/GetBingWallpaper/total) ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/y/mrtoadie/GetBingWallpaper/main)
+![GitHub Release](https://img.shields.io/github/v/release/mrtoadie/GetBingWallpaper)
+ ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/mrtoadie/GetBingWallpaper/total) ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/y/mrtoadie/GetBingWallpaper/main)
 
 
 Little **shell** script to get Bing Wallpapers using the RestAPI of [TimothyYe](https://github.com/TimothyYe/bing-wallpaper/blob/master/README.md)
