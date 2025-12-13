@@ -14,7 +14,7 @@ sh get_bing_wallpaper.sh
 
 ## Version v2.0
 ### Features
-Specify your download settings via config.cfg
+Specify your download settings via `config.cfg`
 ### Usage
 ```bash
 sh get_bing_wallpaper_v2.sh
