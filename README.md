@@ -1,5 +1,5 @@
 # GetBingWallpaper
-![GitHub Release](https://img.shields.io/github/v/release/mrtoadie/GetBingWallpaper)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![GitHub Release](https://img.shields.io/github/v/release/mrtoadie/GetBingWallpaper)
  ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/mrtoadie/GetBingWallpaper/total) ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/y/mrtoadie/GetBingWallpaper/main)
 
 
